@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.2
+Name: weatherman
+Formal-Name: weatherman
+App-ID: com.example.weatherman
+Version: 0.0.1
+Home-page: https://example.com/weatherman
+Author: @pystar
+Author-email: pystar@gmail.com
+Summary: A simple weather app.
